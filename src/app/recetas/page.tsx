@@ -4,5 +4,5 @@ export const metadata = {
 };
 
 export default function BlogPage() {
-    return <h1>Bienvenido al Blog</h1>;
+    return <h1>Bienvenido al Blog pruebas</h1>;
 }
